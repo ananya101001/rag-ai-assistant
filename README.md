@@ -70,7 +70,7 @@ Not everyone should see every document. This system filters search results based
 ```bash
 git clone [https://github.com/ananya101001/rag-ai-assistant.git](https://github.com/ananya101001/rag-ai-assistant.git)
 cd rag-ai-assistant
-```
+
 
 rag-ai-assistant/
 ├── app.py                 # The main application runner
@@ -89,6 +89,9 @@ rag-ai-assistant/
 │   └── styles.py          # CSS for modern UI
 │
 └── data/                  # Folder for temporary file storage
+```
+
+
 
 
 Author
