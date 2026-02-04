@@ -1,0 +1,9 @@
+# .gitignore
+__pycache__/
+*.pyc
+venv/
+.env
+.DS_Store
+chroma_db/
+data/
+audit_log.csv
